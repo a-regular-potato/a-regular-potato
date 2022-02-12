@@ -1,3 +1,5 @@
+# A-Regular-Potato
+## Ethan Richardson-Noyes
 ### Hi there 👋
 
 <!--
