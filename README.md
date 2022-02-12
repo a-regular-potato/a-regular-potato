@@ -1,6 +1,6 @@
 # A-Regular-Potato
-## Ethan Richardson-Noyes
-### Hi there 👋
+##### Ethan Richardson-Noyes
+<!-- ### Hi there 👋 -->
 
 <!--
 **a-regular-potato/a-regular-potato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
